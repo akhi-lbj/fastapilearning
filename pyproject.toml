@@ -1,7 +1,7 @@
 [project]
 name = "fastapicourse"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Project illustrating some basics of FastAPI which streamlines the backend of any Dynamic application (CRUD)."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
